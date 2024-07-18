@@ -58,6 +58,10 @@ Leonardo AI：
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
+- Link do ebook desenvolvido
+
+(https://github.com/Lipones/prompts-recipe-to-create-a-ebook/blob/main/ebook%20people%20analytics.pdf)
+
 ## 🛠️ Instruções de execução
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
