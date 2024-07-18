@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src=".blob/main/Default_A_vibrant_pixel_art_depiction_of_a_people_analytics_sp_1.jpg">
 </p>
 
 
